@@ -851,7 +851,9 @@ section.app_section .img-box img {
   background-repeat: no-repeat;
 }
 
-
+.dropdown-item:hover {
+  background-color:  darkorange !important;
+}
 
 /* end footer section*/
 /*# sourceMappingURL=style.css.map */

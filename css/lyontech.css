@@ -81,11 +81,15 @@
     padding-bottom: 1px;
   }
 
-
 /* S1 */  
 .navbar{
   background-color: #151618 !important;
 }
+.card-bg:hover {
+  background-color: #151618  !important; /* Cambia el color al pasar el ratón sobre el botón */
+}
+
+
 
 .btn-orange {
   display: inline-block;
